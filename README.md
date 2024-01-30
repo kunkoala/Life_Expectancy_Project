@@ -1,4 +1,4 @@
-# Life_Expectancy_Project
+# Life Expectancy Project
 Project of analyzing a Life Expectancy dataset from kaggle.
 
 Source: [Life Expectancy Trends for Males and Females](https://www.kaggle.com/datasets/saimondahal/life-expectancy-trends-for-males-and-females)
